@@ -17,4 +17,4 @@ There are several important points to know about notifications:
 
 The following sections describe the notification methods:
 + To receive notifications by email \(which applies to bounces and complaints only\), see [Amazon SES Notifications Through Email](notifications-via-email.md)\.
-+ To receive notifications through Amazon SNS \(which applies to all three notification types\), see [Amazon SES Notifications Through Amazon SNS](notifications-via-sns.md)\.
++ To receive notifications through Amazon SNS \(which applies to all three notification types\), see [Amazon SES Notifications Through Amazon SNS](notifications-via-sns.md)\. 
